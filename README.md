@@ -1,9 +1,8 @@
-
 <p align="center">
   <img src="img/logo-light-grad.svg" alt="" width="200">
 </p>
 
-# <center> 💻 About Me </center>
+# 💻 About Me
 
 *Hi! My name is **Maxim** — I’m a beginner developer learning **`HTML`**, **`CSS`**, **`JavaScript`**, and a bit of **`C#`**, **`XAML`**.*
 
@@ -13,7 +12,7 @@
 
 ---
 
-# <center> 🚀 Skills & Tools </center>
+# 🚀 Skills & Tools
 - 🖌️ **Frontend**: HTML5, CSS3
 - ⚙️ **JavaScript**
 - 📦 **Tools**: Git, VS Code, Markdown
@@ -21,7 +20,7 @@
 
 ---
 
-# <center> 📌 Current Focus </center>
+# 📌 Current Focus
 - 🔭 Developing interactive web components and image galleries
 - 🌐 Currently working on my **personal website** and creating a **template version** for other users
 - 📚 Improving my JavaScript skills and responsive web design
@@ -29,7 +28,7 @@
 
 ---
 
-# <center> 📫 How to reach me </center>
+# 📫 How to reach me
 - ✉️ Email: `none`
 - 💬 Telegram: [@UnSteD](https://t.me/UnSteD)
 
