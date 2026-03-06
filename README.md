@@ -6,32 +6,53 @@
 
 *Hi! My name is **Maxim** — I’m a beginner developer learning **`HTML`**, **`CSS`**, **`JavaScript`**, and a bit of **`C#`**, **`XAML`**.*
 
-*I work in **Visual Studio Code** on **Linux (Fedora KDE Plasma)**.*
+*I work in **Visual Studio Code** on **Linux (Fedora)**.*
 
-*I strive to write clean and well-structured code following **SOLID** and **BEM** principles — but sometimes I just follow my own creative ideas.* 😄
+*I strive to write clean, well-structured code guided by **SOLID** and **BEM**, while still leaving room for creativity.* 😄
+
+---
+
+*Привет! Меня зовут **Максим** — я начинающий разработчик, изучаю **`HTML`**, **`CSS`**, **`JavaScript`**, а также немного **`C#`** и **`XAML`**.*
+
+*Работаю в **Visual Studio Code** на **Linux (Fedora)**.*
+
+*Стремлюсь писать чистый и хорошо структурированный код, опираясь на принципы **SOLID** и **BEM**, при этом оставляя место для творчества.* 😄
 
 ---
 
 # 🚀 Skills & Tools
-- 🖌️ **Frontend**: HTML5, CSS3
-- ⚙️ **JavaScript**
-- 📦 **Tools**: Git, VS Code, Markdown
-- 🐧 **OS**: Linux Fedora 42 KDE Plasma
+- 🖌️ **Frontend**: HTML, CSS, JavaScript
+- ⚙️ **Programming**: C#, XAML
+- 📦 **Tools**: Git, Visual Studio Code, Markdown
+- 🐧 **OS**: Fedora Linux 43 (KDE Plasma)
 
 ---
 
 # 📌 Current Focus
-- 🔭 Developing interactive web components and image galleries
-- 🌐 Currently working on my **personal website** and creating a **template version** for other users
-- 📚 Improving my JavaScript skills and responsive web design
-- 🛠️ Experimenting with animations and UI optimizations
+- 🌐 Growing in **frontend development**
+- 🎬 Working on **NextMovieDB** — a personal movie database with a thoughtful UI, convenient browsing, and cataloging features
+- ⚙️ Developing a private project, **MovieScraper-CLI** — a console-based movie data scraper
+- 🧩 Building reusable, structured, and maintainable **frontend components**
+- 🐚 Writing **Bash scripts** for data processing, automation, and workflow simplification
+- ✨ Experimenting with animations and interface optimization
+- 🌍 Working on my personal **portfolio website** and creating its template version for other users
+
+---
+
+- 🌐 Развиваюсь во **frontend-разработке**
+- 🎬 Работаю над **NextMovieDB** — персональной базой фильмов с продуманным UI, удобным просмотром и возможностями каталогизации
+- ⚙️ Разрабатываю приватный проект **MovieScraper-CLI** — консольный парсер данных о фильмах
+- 🧩 Создаю переиспользуемые, структурированные и удобные в поддержке **frontend-компоненты**
+- 🐚 Пишу **Bash-скрипты** для обработки данных, автоматизации и упрощения рабочих процессов
+- ✨ Экспериментирую с анимациями и оптимизацией интерфейсов
+- 🌍 Работаю над собственным **сайтом-визиткой** и создаю его шаблон для других пользователей
 
 ---
 
 # 📫 How to reach me
-- ✉️ Email: `none`
+<!-- - ✉️ Email: `none` -->
 - 💬 Telegram: [@UnSteD](https://t.me/UnSteD)
 
 ---
 
-⭐ _"Code is like humor — when you have to explain it, it’s bad."_
+⭐ *"Code is like humor — when you have to explain it, it’s bad."*
